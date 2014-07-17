@@ -1,0 +1,82 @@
+#Sun Steel version 1.0
+
+default.fore: #57606B
+default.back: #191F26
+default.bold: 
+default.italic: 
+default.eolfilled: 
+commentline.fore: #57606B
+commentline.back: 
+commentline.bold: 
+commentline.italic: 
+commentline.eolfilled: 
+number.fore: #9FB4D4 
+number.back: 
+number.bold: 
+number.italic: 
+number.eolfilled: 
+string.fore: #FFFFFF
+string.back: 
+string.bold: 
+string.italic: 
+string.eolfilled: 
+character.fore: #FFFFFF
+character.back: 
+character.bold: 
+character.italic: 
+character.eolfilled: 
+word.fore: #FFFC6F
+word.back: 
+word.bold: 
+word.italic: 
+word.eolfilled: 
+triple.fore: #FFFFFF
+triple.back: 
+triple.bold: 
+triple.italic: 
+triple.eolfilled: 
+tripledouble.fore: #FFFFFF
+tripledouble.back: 
+tripledouble.bold: 
+tripledouble.italic: 
+tripledouble.eolfilled: 
+classname.fore: #9FB4D4
+classname.back: 
+classname.bold: 
+classname.italic: 
+classname.eolfilled: 
+defname.fore: #007CCD
+defname.back: 
+defname.bold: 
+defname.italic: 
+defname.eolfilled: 
+operator.fore: #FFFC6F
+operator.back: 
+operator.bold: 
+operator.italic: 
+operator.eolfilled: 
+identifier.fore: #A5AAAF   
+identifier.back: 
+identifier.bold: 
+identifier.italic: 
+identifier.eolfilled: 
+commentblock.fore: #57606B
+commentblock.back: 
+commentblock.bold: 
+commentblock.italic: 
+commentblock.eolfilled: 
+stringeol.fore: #D9453D
+stringeol.back:
+stringeol.bold: 
+stringeol.italic: 
+stringeol.eolfilled: 1
+word2.fore: #78CAFF
+word2.back: 
+word2.bold: 
+word2.italic: 
+word2.eolfilled: 
+decorator.fore: #33AEFF
+decorator.back: 
+decorator.bold: 
+decorator.italic: 
+decorator.eolfilled: 
