@@ -1,4 +1,4 @@
-#Sun Steel version 1.0
+#Sun Steel version 1.1
 
 default.fore: #57606B
 default.back: #191F26
@@ -10,7 +10,7 @@ commentline.back:
 commentline.bold: 
 commentline.italic: 
 commentline.eolfilled: 
-number.fore: #9FB4D4 
+number.fore: #A2ADD0
 number.back: 
 number.bold: 
 number.italic: 
@@ -20,7 +20,7 @@ string.back:
 string.bold: 
 string.italic: 
 string.eolfilled: 
-character.fore: #FFFFFF
+character.fore: #4682B4
 character.back: 
 character.bold: 
 character.italic: 
@@ -30,22 +30,22 @@ word.back:
 word.bold: 
 word.italic: 
 word.eolfilled: 
-triple.fore: #FFFFFF
+triple.fore: #025A93
 triple.back: 
 triple.bold: 
 triple.italic: 
 triple.eolfilled: 
-tripledouble.fore: #FFFFFF
+tripledouble.fore: #536895
 tripledouble.back: 
 tripledouble.bold: 
 tripledouble.italic: 
 tripledouble.eolfilled: 
-classname.fore: #9FB4D4
+classname.fore: #A2ADD0
 classname.back: 
 classname.bold: 
 classname.italic: 
 classname.eolfilled: 
-defname.fore: #007CCD
+defname.fore: #008CCD
 defname.back: 
 defname.bold: 
 defname.italic: 

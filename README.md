@@ -6,7 +6,7 @@ Optional color palette for the Python Wing IDE
 
 About
 ==========================
-Sun Steel is a custom color scheme designed for the Python Wing IDE. The scheme is the color approximation of a #FFFC6F Tetrad with high contrast.
+Sun Steel is a custom color scheme designed for the Python Wing IDE. The scheme is the color approximation of a #FFFC6F Triad with high contrast.
 
 Author: RazorX aka Daniel Hill 
 
