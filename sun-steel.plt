@@ -1,4 +1,4 @@
-# Sun Steel version 1.1
+# Sun Steel version 1.2
 
 name: Sun Steel
 

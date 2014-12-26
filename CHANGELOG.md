@@ -1,3 +1,9 @@
+## 1.2 (December 26, 2014)
+
+Enhancements:
+
+  - The color for decorator was modified for visual distinction.
+
 ## 1.1 (December 7, 2014)
 
 Enhancements:

@@ -1,4 +1,4 @@
-#Sun Steel version 1.1
+#Sun Steel version 1.2
 
 default.fore: #57606B
 default.back: #191F26
@@ -75,7 +75,7 @@ word2.back:
 word2.bold: 
 word2.italic: 
 word2.eolfilled: 
-decorator.fore: #33AEFF
+decorator.fore: #6570B1
 decorator.back: 
 decorator.bold: 
 decorator.italic: 
